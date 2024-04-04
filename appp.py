@@ -4,7 +4,7 @@ import streamlit as st
 st.sidebar.title('Arunkumar H V')
 st.sidebar.header('Contact')
 st.sidebar.write("Email: arunkumarhv14@gmail.com")
-st.sidebar.write("LinkedIn: [Arun2001kumar](https://github.com/arun2001kumar)")
+st.sidebar.write("github: [Arun2001kumar](https://github.com/arun2001kumar)")
 st.sidebar.write("LinkedIn: [Arunkumar H V](https://www.linkedin.com/in/arunkumar-h-v-5812b8232/)")
 st.sidebar.header('Skills')
 skills = ['Python', 'Machine Learning', 'Data Analysis', 'Power BI','Tableau', 'SQL', 'Statistical Modeling','AWS GLUE','AWS QuickSight','AWS DynamoDB','AZURE DataBrick','Azure Data Pipeline','Pyspark']
